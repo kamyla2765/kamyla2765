@@ -14,9 +14,3 @@ Beyond coding, I’m also an *Comuter student**, learning technological skills f
 
  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamyla2765&layout=compact)](https://github.com//github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamyla2765&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |  
  | ----------- | ----------- |  
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,react,nodejs,nestjs,docker,mysql,mongodb,postgres,figma,laravel,py,ubuntu,androidstudio,arch,aws,bootstrap,dotnet,debian,django,express,git,heroku,nginx,php,prisma,redux,ts)](https://skillicons.dev)
-
-
- | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobaranowski-design&layout=compact)](https://github.com/eduardobaranowski-design/github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardobaranowski-design&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |  
- | ----------- | ----------- |  
